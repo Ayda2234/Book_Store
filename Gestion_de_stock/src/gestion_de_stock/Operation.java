@@ -6,7 +6,7 @@ package gestion_de_stock;
 
 /**
  *
- * @author RAM COM
+ * @author BOUZEKRI AIDA
  */
 public class Operation extends javax.swing.JFrame {
 
