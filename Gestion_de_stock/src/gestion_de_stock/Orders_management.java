@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 import net.proteanit.sql.DbUtils;
 /**
  *
- * @author RAM COM
+ * @author BOUZEKRI AIDA
  */
 public class Orders_management extends javax.swing.JFrame {
     /**
