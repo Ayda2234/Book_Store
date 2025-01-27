@@ -17,7 +17,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author RAM COM
+ * @author BOUZEKRI AIDA
  */
 public class products_management extends javax.swing.JFrame {
 
