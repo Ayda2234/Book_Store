@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author RAM COM
+ * @author BOUZEKRI AIDA
  */
 public class Interface_principale extends javax.swing.JFrame {
 
