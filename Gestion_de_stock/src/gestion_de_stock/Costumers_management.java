@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author RAM COM
+ * @author BOUZEKRI AIDA
  */
 public class Costumers_management extends javax.swing.JFrame {
 
